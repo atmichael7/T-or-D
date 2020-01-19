@@ -6,3 +6,4 @@ A modular truth or dare game.
   Unlimited players
   Color coating for better user experience
   
+Updated (1/19/20)
