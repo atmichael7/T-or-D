@@ -16,16 +16,23 @@ vector<string> DaresNormal = {"Pluck 5 eyebrows",
                               "Eat a spoon of wasabi",
                               "Take a shot of Tapatio",
                               "Text a random contact 'Have a good day'",
+                              "Immitate a popular YouTube video until a player recognizes it"
                               };
 
 
-vector<string> DaresExtreme = {"Pluck 10 eyebrows",
-                              "Draw a mustache with paint",
-                              "Eat a spoon of mustard",
-                              "Chug a bottle of milk under 20 seconds",
-                              "Eat two spoons of wasabi",
-                              "Take two shot of Tapatio",
-                              "Text a random contact 'I hope you die!'",
+vector<string> DaresExtreme = {"Pour a cup of ice cold water on yourself",
+                               "Pour a cup of hot water on yourself",
+                               "You must ask other players for permission to go to the bathroom",
+                               "For the next ten minutes, randomly yell things",
+                               "Eat a spoonful of mustard",
+                               "Take 2 shots of the hottest hot sauce you have",
+                               "For the next ten minutes, talk without closing your mouth",
+                               "Color one of your front teeth black",
+                               "Talk in an accent for the next three rounds",
+                               "Drink a small cup of condiments created by each player",
+                               "Do pushups until your arms give out, wait five seconds then do three more",
+                               "Take a bite out of a bar of soap and leave it for others to see"
+
                               };
 
 vector<string> DaresNSFW = {"Pluck 5 eyebrows",

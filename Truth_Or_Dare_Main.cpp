@@ -222,7 +222,7 @@ void Game_Run(int Gamemode)
   bool Game_Time = true;
   int Player_Turn = 0;
   string Player_Answer;
-
+  int Round_Counter = 1;
 
   while(Game_Time)
   {
@@ -232,6 +232,17 @@ void Game_Run(int Gamemode)
     if (Player_Turn >= Players)
     {
       Player_Turn = 0;
+      k = 4;
+      SetConsoleTextAttribute(hConsole, k); // COLOR CHANGE -------===----===---
+      system("CLS");
+      k = 96;
+      SetConsoleTextAttribute(hConsole, k); // COLOR CHANGE -------===----===---
+      cout << "   +++ That's the end of round " << Round_Counter << " +++   ";
+      Sleep(4000);
+      k = 3;
+      SetConsoleTextAttribute(hConsole, k); // COLOR CHANGE -------===----===---
+      system("CLS");
+      Round_Counter += 1;
 
     }
 
