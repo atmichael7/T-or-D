@@ -1,3 +1,8 @@
+// Created by Michael Barrett (CSUSB)
+
+// This will print out letter by letter of what the caller types
+// (EX): PLR("Hello world!", 500);
+//            ^ Message ^     ^ Rate it will be typed out in milliseconds(ms)
 #include <iostream>
 #include <windows.h>
 
