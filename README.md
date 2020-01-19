@@ -1,2 +1,8 @@
 # T-or-D
-Truth or Dare game V1
+A modular truth or dare game.
+ Features:
+  Scoring system
+  Three game modes (Normal, Hardcore, NSFW)
+  Unlimited players
+  Color coating for better user experience
+  
